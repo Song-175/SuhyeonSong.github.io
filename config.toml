@@ -1,7 +1,7 @@
 baseURL = "https://<your-username>.github.io/<your-repo>/" # 사용자/프로젝트 페이지 경로에 맞게
 languageCode = "en-us"
 title = "Your Name"
-theme = "spark2"
+# theme = "spark2"
 
 pygmentsCodeFences = true
 enableRobotsTXT = true
