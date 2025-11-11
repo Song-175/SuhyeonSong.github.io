@@ -1,0 +1,10 @@
+{
+  "Education": [
+    {
+      "title": "Title of degree",
+      "where": "name of university, location",
+      "from": "yyyy",
+      "to": "yyyy"
+    }
+  ]
+}
